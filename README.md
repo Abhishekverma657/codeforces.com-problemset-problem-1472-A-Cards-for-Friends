@@ -1,0 +1,1 @@
+# codeforces.com-problemset-problem-1472-A-Cards-for-Friends
